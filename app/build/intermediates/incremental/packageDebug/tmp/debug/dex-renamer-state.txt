@@ -1,0 +1,4 @@
+#Sun Apr 19 08:03:15 EET 2020
+base.0=/home/prof-mohamed/examPhase/testing/UI-testing/android-fundamentals-apps-v2-master/TwoActivitiesLifecycle/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
